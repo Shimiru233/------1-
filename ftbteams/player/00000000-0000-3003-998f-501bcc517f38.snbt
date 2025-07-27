@@ -1,0 +1,17 @@
+{
+	id: "00000000-0000-3003-998f-501bcc517f38"
+	type: "player"
+	player_name: "Toi"
+	ranks: {
+		00000000-0000-3003-998f-501bcc517f38: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Toi"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFD5"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

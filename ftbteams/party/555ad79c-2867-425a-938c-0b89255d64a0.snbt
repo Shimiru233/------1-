@@ -1,0 +1,17 @@
+{
+	id: "555ad79c-2867-425a-938c-0b89255d64a0"
+	type: "party"
+	owner: "7c5f0d91-1fd3-3dda-8869-0e5463392aca"
+	ranks: {
+		7c5f0d91-1fd3-3dda-8869-0e5463392aca: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": ""
+		"ftbteams:description": "ee"
+		"ftbteams:color": "#E6FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1753484750202L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Toi\"}]}" }]
+	extra: { }
+}

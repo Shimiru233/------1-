@@ -1,0 +1,15 @@
+{
+	id: "7c5f0d91-1fd3-3dda-8869-0e5463392aca"
+	type: "player"
+	player_name: "Toi"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Toi"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E6FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

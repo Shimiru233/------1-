@@ -1,0 +1,17 @@
+{
+	id: "00000000-0000-300a-9d80-2d52c72f08c9"
+	type: "player"
+	player_name: "shimiru233"
+	ranks: {
+		00000000-0000-300a-9d80-2d52c72f08c9: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "shimiru233"
+		"ftbteams:description": ""
+		"ftbteams:color": "#CEFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
