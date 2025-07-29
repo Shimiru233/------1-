@@ -15132,111 +15132,33 @@
     },
     "done": true
   },
-  "twigs:recipes/silt/pink_packed_silt_from_silt": {
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
-      "has_item": "2025-07-27 20:02:42 +0900"
+      "has_iron_ore": "2025-07-27 19:05:45 +0900"
     },
     "done": true
   },
-  "medievalweapons:medieval_dragon_recipes": {
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
     "criteria": {
-      "medieval_dragon_recipes": "2025-07-27 20:24:39 +0900"
+      "has_iron_ore": "2025-07-27 19:05:45 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+  "rpg_classes:obtain_arcane_rune": {
     "criteria": {
-      "has_end_stone_bricks": "2025-07-27 20:06:44 +0900"
+      "runes": "2025-07-27 19:07:32 +0900"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+  "rpg_classes:obtain_frost_rune": {
     "criteria": {
-      "has_bone_block": "2025-07-27 20:39:15 +0900"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/flaming_ruby_shovel": {
-    "criteria": {
-      "has_block.minecraft.sculk_catalyst": "2025-07-27 19:46:50 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_end_stone_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
+      "runes": "2025-07-27 19:07:37 +0900"
     },
     "done": true
   },
   "regions_unexplored:recipes/building_blocks/deepslate_prismoss": {
     "criteria": {
       "has_deepslate": "2025-07-27 19:44:47 +0900"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/end_stone_furnace": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/end_stone_brick_weathered_from_vine": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-07-27 20:06:44 +0900"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/end_stone_brick_weathered_from_moss": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-07-27 20:06:44 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/end_stone_tile_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_end_stone_stairs_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/end_stone_brick_cracked_wall": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-07-27 20:06:44 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_end_stone_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/end_stone_plates_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "twigs:recipes/silt/green_packed_silt_from_silt": {
-    "criteria": {
-      "has_item": "2025-07-27 20:02:42 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-07-27 20:39:15 +0900"
     },
     "done": true
   },
@@ -15252,63 +15174,9 @@
     },
     "done": true
   },
-  "twigs:recipes/silt/purple_packed_silt_from_silt": {
-    "criteria": {
-      "has_item": "2025-07-27 20:02:42 +0900"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/flaming_ruby_pickaxe": {
-    "criteria": {
-      "has_block.minecraft.sculk_catalyst": "2025-07-27 19:46:50 +0900"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/end_stone_bricks_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-07-27 20:06:44 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/end_stone_shingle_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/deepslate_shingle_wall_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2025-07-27 19:44:47 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cracked_end_stone_bricks_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "twigs:recipes/silt/magenta_packed_silt_from_silt": {
-    "criteria": {
-      "has_item": "2025-07-27 20:02:42 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/end_stone_pavers_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-07-27 20:06:44 +0900"
     },
     "done": true
   },
@@ -15324,45 +15192,9 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/end_stone_tile_stairs_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "ends_delight:root": {
-    "criteria": {
-      "the_end": "2025-07-27 20:06:19 +0900"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/flaming_ruby_hoe": {
-    "criteria": {
-      "has_block.minecraft.sculk_catalyst": "2025-07-27 19:46:50 +0900"
-    },
-    "done": true
-  },
-  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
-    "criteria": {
-      "has_the_recipe": "2025-07-27 20:01:17 +0900"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/deepslate_paver_wall_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2025-07-27 19:44:47 +0900"
-    },
-    "done": true
-  },
-  "betternether:recipes/combat/flaming_ruby_chestplate": {
-    "criteria": {
-      "has_block.minecraft.sculk_catalyst": "2025-07-27 19:46:50 +0900"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/end_stone_brick_cracked_smelting": {
-    "criteria": {
-      "has_block.minecraft.end_stone_bricks": "2025-07-27 20:06:44 +0900"
     },
     "done": true
   },
@@ -15372,93 +15204,9 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2025-07-27 20:06:19 +0900"
-    },
-    "done": true
-  },
-  "twigs:recipes/silt/black_packed_silt_from_silt": {
-    "criteria": {
-      "has_item": "2025-07-27 20:02:42 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2025-07-27 20:06:44 +0900"
-    },
-    "done": true
-  },
-  "twigs:recipes/silt/light_gray_packed_silt_from_silt": {
-    "criteria": {
-      "has_item": "2025-07-27 20:02:42 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/polished_end_stone_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/end_stone_plate_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "twigs:recipes/silt/blue_packed_silt_from_silt": {
-    "criteria": {
-      "has_item": "2025-07-27 20:02:42 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
-    "criteria": {
-      "has_iron_ore": "2025-07-27 19:05:45 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/end_stone_plate_stairs_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "twigs:recipes/silt/lime_packed_silt_from_silt": {
-    "criteria": {
-      "has_item": "2025-07-27 20:02:42 +0900"
-    },
-    "done": true
-  },
   "candlelight:recipes/deepslate_counter": {
     "criteria": {
       "has_deepslate": "2025-07-27 19:44:47 +0900"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/ground_skeleton": {
-    "criteria": {
-      "has_planks": "2025-07-27 20:39:15 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_end_stone_brick_stairs_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/chiseled_end_stone_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
     },
     "done": true
   },
@@ -15471,30 +15219,6 @@
   "stoneworks:recipes/building_blocks/deepslate_shingles_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2025-07-27 19:44:47 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_the_recipe": "2025-07-27 20:01:17 +0900"
-    },
-    "done": true
-  },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2025-07-27 20:09:57 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/end_stone_tile_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "betterend:enter_end": {
-    "criteria": {
-      "entered_end": "2025-07-27 20:06:19 +0900"
     },
     "done": true
   },
@@ -15516,33 +15240,9 @@
     },
     "done": true
   },
-  "twigs:recipes/silt/gray_packed_silt_from_silt": {
-    "criteria": {
-      "has_item": "2025-07-27 20:02:42 +0900"
-    },
-    "done": true
-  },
-  "additionaladditions:obtain_chicken_nugget": {
-    "criteria": {
-      "obtain": "2025-07-27 20:28:47 +0900"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/end_stone_brick_weathered_wall": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-07-27 20:06:44 +0900"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/deepslate_pillar_trim": {
     "criteria": {
       "has_deepslate_pillar_trim": "2025-07-27 19:44:47 +0900"
-    },
-    "done": true
-  },
-  "candlelight:recipes/end_stove": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-07-27 20:06:44 +0900"
     },
     "done": true
   },
@@ -15552,27 +15252,9 @@
     },
     "done": true
   },
-  "twigs:recipes/silt/orange_packed_silt_from_silt": {
-    "criteria": {
-      "has_item": "2025-07-27 20:02:42 +0900"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_deepslate_brick_slab_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2025-07-27 19:44:47 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/polished_end_stone_stairs_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "twigs:recipes/silt/yellow_packed_silt_from_silt": {
-    "criteria": {
-      "has_item": "2025-07-27 20:02:42 +0900"
     },
     "done": true
   },
@@ -15582,51 +15264,9 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_end_stone_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/end_stone_shingle_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-07-27 19:50:55 +0900"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/deepslate_paver_slab_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2025-07-27 19:44:47 +0900"
-    },
-    "done": true
-  },
-  "mcdw:recipes/hammers/hammer_bone_cudgel": {
-    "criteria": {
-      "has_bone_block": "2025-07-27 20:39:15 +0900"
-    },
-    "done": true
-  },
-  "lootr:100loot": {
-    "criteria": {
-      "loot_stat": "2025-07-27 19:49:17 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/end_stone_shingles_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
     },
     "done": true
   },
@@ -15636,69 +15276,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_deepslate_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2025-07-27 19:44:47 +0900"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/balustrade_end_stone_bricks_bridge": {
-    "criteria": {
-      "has_planks": "2025-07-27 20:06:44 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-07-27 19:58:22 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/polished_end_stone_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/ghostly_helmet": {
-    "criteria": {
-      "has_skeleton_skull": "2025-07-27 20:01:17 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/end_stone_plate_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/end_stone_pillar_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "adorabuild_structures:end_structures": {
-    "criteria": {
-      "example": "2025-07-27 20:06:19 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/end_stone_paver_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "twigs:recipes/silt/cyan_packed_silt_from_silt": {
-    "criteria": {
-      "has_item": "2025-07-27 20:02:42 +0900"
     },
     "done": true
   },
@@ -15708,171 +15288,15 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/polished_end_stone_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/flaming_ruby_axe": {
-    "criteria": {
-      "has_block.minecraft.sculk_catalyst": "2025-07-27 19:46:50 +0900"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/deepslate_grass_block": {
     "criteria": {
       "has_deepslate": "2025-07-27 19:44:47 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
-    "criteria": {
-      "has_deepslate_diamond_ore": "2025-07-27 20:38:46 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/end_stone_tiles_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
-    "criteria": {
-      "has_deepslate_gold_ore": "2025-07-27 20:34:06 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
-    "criteria": {
-      "has_iron_ore": "2025-07-27 19:05:45 +0900"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/endstone_flower_pot": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-07-27 20:06:44 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/end_stone_paver_stairs_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/deepslate_corner_trim": {
     "criteria": {
       "has_deepslate_corner_trim": "2025-07-27 19:44:47 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/end_stone_shingle_stairs_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "dragonloot:dragon_recipes": {
-    "criteria": {
-      "dragon_recipes": "2025-07-27 20:24:39 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_end_stone_stairs_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "betternether:recipes/combat/flaming_ruby_boots": {
-    "criteria": {
-      "has_block.minecraft.sculk_catalyst": "2025-07-27 19:46:50 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cobbled_end_stone_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "twigs:recipes/silt/red_packed_silt_from_silt": {
-    "criteria": {
-      "has_item": "2025-07-27 20:02:42 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
-    "criteria": {
-      "has_deepslate_gold_ore": "2025-07-27 20:34:06 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
-    "criteria": {
-      "has_deepslate_redstone_ore": "2025-07-27 19:48:10 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/mossy_cobbled_end_stone_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "deeperdarker:main/root": {
-    "criteria": {
-      "deep_dark": "2025-07-27 19:45:55 +0900"
-    },
-    "done": true
-  },
-  "rpg_classes:obtain_frost_rune": {
-    "criteria": {
-      "runes": "2025-07-27 19:07:37 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/cracked_end_stone_tiles_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "galosphere:recipes/misc/silver_ingot_from_blasting_deepslate_silver_ore": {
-    "criteria": {
-      "has_deepslate_silver_ore": "2025-07-27 19:50:35 +0900"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/end_stone_paver_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "betternether:recipes/combat/flaming_ruby_sword": {
-    "criteria": {
-      "has_block.minecraft.sculk_catalyst": "2025-07-27 19:46:50 +0900"
-    },
-    "done": true
-  },
-  "twigs:recipes/silt/light_blue_packed_silt_from_silt": {
-    "criteria": {
-      "has_item": "2025-07-27 20:02:42 +0900"
-    },
-    "done": true
-  },
-  "candlelight:recipes/end_kitchen_sink": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-07-27 20:06:44 +0900"
     },
     "done": true
   },
@@ -15888,27 +15312,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
-    "criteria": {
-      "has_deepslate_redstone_ore": "2025-07-27 19:48:10 +0900"
-    },
-    "done": true
-  },
   "twigs:recipes/columns/deepslate_column_stonecutting": {
     "criteria": {
       "has_item": "2025-07-27 19:44:47 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-07-27 20:06:44 +0900"
-    },
-    "done": true
-  },
-  "twigs:recipes/silt/packed_silt": {
-    "criteria": {
-      "has_item": "2025-07-27 20:02:42 +0900"
     },
     "done": true
   },
@@ -15918,21 +15324,63 @@
     },
     "done": true
   },
-  "candlelight:recipes/end_counter": {
+  "candlelight:recipes/deepslate_stove": {
     "criteria": {
-      "has_end_stone_bricks": "2025-07-27 20:06:44 +0900"
+      "has_deepslate": "2025-07-27 19:44:47 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+  "stoneworks:recipes/building_blocks/deepslate_plate_stairs_from_deepslate_stonecutting": {
     "criteria": {
-      "has_deepslate_diamond_ore": "2025-07-27 20:38:46 +0900"
+      "has_deepslate": "2025-07-27 19:44:47 +0900"
     },
     "done": true
   },
-  "mcwbridges:recipes/end_stone_bricks_bridge": {
+  "deeperdarker:main/root": {
     "criteria": {
-      "has_planks": "2025-07-27 20:06:44 +0900"
+      "deep_dark": "2025-07-27 19:45:55 +0900"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/flaming_ruby_shovel": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-07-27 19:46:50 +0900"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/flaming_ruby_pickaxe": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-07-27 19:46:50 +0900"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/flaming_ruby_hoe": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-07-27 19:46:50 +0900"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/flaming_ruby_chestplate": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-07-27 19:46:50 +0900"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/flaming_ruby_axe": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-07-27 19:46:50 +0900"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/flaming_ruby_boots": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-07-27 19:46:50 +0900"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/flaming_ruby_sword": {
+    "criteria": {
+      "has_block.minecraft.sculk_catalyst": "2025-07-27 19:46:50 +0900"
     },
     "done": true
   },
@@ -15942,15 +15390,321 @@
     },
     "done": true
   },
-  "candlelight:recipes/deepslate_stove": {
+  "betternether:recipes/combat/flaming_ruby_helmet": {
     "criteria": {
-      "has_deepslate": "2025-07-27 19:44:47 +0900"
+      "has_block.minecraft.sculk_catalyst": "2025-07-27 19:46:50 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-07-27 19:48:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-07-27 19:48:10 +0900"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-07-27 19:49:17 +0900"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_blasting_deepslate_silver_ore": {
+    "criteria": {
+      "has_deepslate_silver_ore": "2025-07-27 19:50:35 +0900"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_smelting_deepslate_silver_ore": {
+    "criteria": {
+      "has_deepslate_silver_ore": "2025-07-27 19:50:35 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-07-27 19:50:55 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-07-27 19:58:22 +0900"
+    },
+    "done": true
+  },
+  "kafvalentine:recipes/food/omega_cookie": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-07-27 19:58:22 +0900"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
+    "criteria": {
+      "has_the_recipe": "2025-07-27 20:01:17 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_the_recipe": "2025-07-27 20:01:17 +0900"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/ghostly_helmet": {
+    "criteria": {
+      "has_skeleton_skull": "2025-07-27 20:01:17 +0900"
     },
     "done": true
   },
   "mcda:recipes/crafting_items/skeleton_skull_to_bonemeal": {
     "criteria": {
       "has_skeleton_skull": "2025-07-27 20:01:17 +0900"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/pink_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-07-27 20:02:42 +0900"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/green_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-07-27 20:02:42 +0900"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/purple_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-07-27 20:02:42 +0900"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/magenta_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-07-27 20:02:42 +0900"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/black_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-07-27 20:02:42 +0900"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/light_gray_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-07-27 20:02:42 +0900"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/blue_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-07-27 20:02:42 +0900"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/lime_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-07-27 20:02:42 +0900"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/gray_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-07-27 20:02:42 +0900"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/orange_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-07-27 20:02:42 +0900"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/yellow_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-07-27 20:02:42 +0900"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/cyan_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-07-27 20:02:42 +0900"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/red_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-07-27 20:02:42 +0900"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/light_blue_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-07-27 20:02:42 +0900"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/packed_silt": {
+    "criteria": {
+      "has_item": "2025-07-27 20:02:42 +0900"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/brown_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-07-27 20:02:42 +0900"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/white_packed_silt_from_silt": {
+    "criteria": {
+      "has_item": "2025-07-27 20:02:42 +0900"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/netherrack_stalactite_netherrack": {
+    "criteria": {
+      "has_netherrack_stalactite": "2025-07-27 20:02:47 +0900"
+    },
+    "done": true
+  },
+  "ends_delight:root": {
+    "criteria": {
+      "the_end": "2025-07-27 20:06:19 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-07-27 20:06:19 +0900"
+    },
+    "done": true
+  },
+  "betterend:enter_end": {
+    "criteria": {
+      "entered_end": "2025-07-27 20:06:19 +0900"
+    },
+    "done": true
+  },
+  "adorabuild_structures:end_structures": {
+    "criteria": {
+      "example": "2025-07-27 20:06:19 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-07-27 20:06:19 +0900"
+    },
+    "done": true
+  },
+  "enderitemod:explore_all_end_biomes": {
+    "criteria": {
+      "theend": "2025-07-27 20:06:24 +0900"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-07-27 20:06:44 +0900"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_brick_weathered_from_vine": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-07-27 20:06:44 +0900"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_brick_weathered_from_moss": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-07-27 20:06:44 +0900"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_brick_cracked_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-07-27 20:06:44 +0900"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/end_stone_bricks_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-27 20:06:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-07-27 20:06:44 +0900"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_brick_cracked_smelting": {
+    "criteria": {
+      "has_block.minecraft.end_stone_bricks": "2025-07-27 20:06:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-07-27 20:06:44 +0900"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_brick_weathered_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-07-27 20:06:44 +0900"
+    },
+    "done": true
+  },
+  "candlelight:recipes/end_stove": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-07-27 20:06:44 +0900"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_end_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-27 20:06:44 +0900"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/endstone_flower_pot": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-07-27 20:06:44 +0900"
+    },
+    "done": true
+  },
+  "candlelight:recipes/end_kitchen_sink": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-07-27 20:06:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-07-27 20:06:44 +0900"
+    },
+    "done": true
+  },
+  "candlelight:recipes/end_counter": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-07-27 20:06:44 +0900"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/end_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-27 20:06:44 +0900"
     },
     "done": true
   },
@@ -15966,81 +15720,255 @@
     },
     "done": true
   },
-  "betternether:recipes/decorations/netherrack_stalactite_netherrack": {
-    "criteria": {
-      "has_netherrack_stalactite": "2025-07-27 20:02:47 +0900"
-    },
-    "done": true
-  },
-  "enderitemod:explore_all_end_biomes": {
-    "criteria": {
-      "theend": "2025-07-27 20:06:24 +0900"
-    },
-    "done": false
-  },
-  "twigs:recipes/silt/brown_packed_silt_from_silt": {
-    "criteria": {
-      "has_item": "2025-07-27 20:02:42 +0900"
-    },
-    "done": true
-  },
-  "rpg_classes:obtain_arcane_rune": {
-    "criteria": {
-      "runes": "2025-07-27 19:07:32 +0900"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/end_stone_bricks_bridge_stair": {
     "criteria": {
       "has_planks": "2025-07-27 20:06:44 +0900"
     },
     "done": true
   },
-  "galosphere:recipes/misc/silver_ingot_from_smelting_deepslate_silver_ore": {
+  "minecraft:adventure/totem_of_undying": {
     "criteria": {
-      "has_deepslate_silver_ore": "2025-07-27 19:50:35 +0900"
+      "used_totem": "2025-07-27 20:09:57 +0900"
     },
     "done": true
   },
-  "minecraft:end/root": {
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
-      "entered_end": "2025-07-27 20:06:19 +0900"
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
     },
     "done": true
   },
-  "kafvalentine:recipes/food/omega_cookie": {
+  "stoneworks:recipes/building_blocks/mossy_cobbled_end_stone_wall_from_end_stone_stonecutting": {
     "criteria": {
-      "has_enchanted_golden_apple": "2025-07-27 19:58:22 +0900"
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/deepslate_plate_stairs_from_deepslate_stonecutting": {
+  "betterend:recipes/misc/end_stone_furnace": {
     "criteria": {
-      "has_deepslate": "2025-07-27 19:44:47 +0900"
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
     },
     "done": true
   },
-  "twigs:recipes/silt/white_packed_silt_from_silt": {
+  "stoneworks:recipes/building_blocks/end_stone_tile_slab_from_end_stone_stonecutting": {
     "criteria": {
-      "has_item": "2025-07-27 20:02:42 +0900"
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
     },
     "done": true
   },
-  "betternether:recipes/combat/flaming_ruby_helmet": {
+  "stoneworks:recipes/building_blocks/mossy_cobbled_end_stone_stairs_from_end_stone_stonecutting": {
     "criteria": {
-      "has_block.minecraft.sculk_catalyst": "2025-07-27 19:46:50 +0900"
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_end_stone_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_plates_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_shingle_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_pavers_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_tile_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_end_stone_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_plate_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_plate_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_end_stone_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_tile_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_end_stone_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_end_stone_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_shingle_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_shingles_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_end_stone_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_plate_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_pillar_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_paver_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_end_stone_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_tiles_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_paver_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_shingle_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_end_stone_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_end_stone_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_end_stone_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_end_stone_tiles_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/end_stone_paver_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-27 20:15:55 +0900"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-07-27 20:15:55 +0900"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/dragon_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-07-27 20:39:15 +0900"
     },
     "done": true
   },
@@ -16056,9 +15984,195 @@
     },
     "done": true
   },
+  "medievalweapons:medieval_dragon_recipes": {
+    "criteria": {
+      "medieval_dragon_recipes": "2025-07-27 20:24:39 +0900"
+    },
+    "done": true
+  },
+  "dragonloot:dragon_recipes": {
+    "criteria": {
+      "dragon_recipes": "2025-07-27 20:24:39 +0900"
+    },
+    "done": true
+  },
+  "additionaladditions:obtain_chicken_nugget": {
+    "criteria": {
+      "obtain": "2025-07-27 20:28:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-07-27 20:34:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-07-27 20:34:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-07-27 20:38:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-07-27 20:38:46 +0900"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-07-27 20:39:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-07-27 20:39:15 +0900"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/ground_skeleton": {
+    "criteria": {
+      "has_planks": "2025-07-27 20:39:15 +0900"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_bone_cudgel": {
+    "criteria": {
+      "has_bone_block": "2025-07-27 20:39:15 +0900"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/dragon_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-07-27 20:39:15 +0900"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/bn_bone_block": {
     "criteria": {
       "has_bone_block": "2025-07-27 20:39:15 +0900"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_wood": {
+    "criteria": {
+      "has_swamp_oak_log": "2025-07-29 07:20:34 +0900"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_trapdoor": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-29 07:21:20 +0900"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_planks": {
+    "criteria": {
+      "has_swamp_oak_log": "2025-07-29 07:20:34 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-07-29 07:29:41 +0900"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_button": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-29 07:21:20 +0900"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_fence": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-29 07:21:20 +0900"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_fence_gate": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-29 07:21:20 +0900"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_window": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-29 07:21:20 +0900"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_sign": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-29 07:21:20 +0900"
+    },
+    "done": true
+  },
+  "snowyspirit:recipes/decorations/bloomingnature/sled_swamp_oak": {
+    "criteria": {
+      "has_planks": "2025-07-29 07:21:20 +0900"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_door": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-29 07:21:20 +0900"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_chest_boat": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-29 07:21:20 +0900"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_slab": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-29 07:21:20 +0900"
+    },
+    "done": true
+  },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2025-07-29 07:29:55 +0900"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_stairs": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-29 07:21:20 +0900"
+    },
+    "done": true
+  },
+  "additionaladditions:obtain_glow_stick": {
+    "criteria": {
+      "obtain": "2025-07-29 07:12:05 +0900"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_boat": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-29 07:21:20 +0900"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_hanging_sign": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-29 07:21:20 +0900"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/bloomingnature/sign_post_swamp_oak": {
+    "criteria": {
+      "has_planks": "2025-07-29 07:21:20 +0900"
     },
     "done": true
   },
